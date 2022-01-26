@@ -36,7 +36,7 @@ Randomnly select a Rider, a Trick and a result from the relevant arrays, and dis
 
 
 ## Screenshots
-![Game title](./img/stomp_or_bail.png)
+![Game title](./img/sob.png)
 ![Mid game](./img/midgame.png)
 ![Result](./img/result.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
