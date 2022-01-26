@@ -32,7 +32,7 @@
 
 
 ## Features
-Randomnly select a Rider, a Trick and a result from the relevant arrays, and display them as a coherent message on a simple .html page.
+Randomly select a Rider, a Trick and a result from the relevant arrays, and display them as a coherent message on a simple .html page.
 
 
 ## Screenshots
