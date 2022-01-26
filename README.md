@@ -17,7 +17,7 @@
 
 
 ## General Information
-- This project is for learning purposes on codecademy. To: 
+This project is for learning purposes on codecademy. To: 
 - practice JavaScript
 - practice Git & Github
 - practice writing a README using Markdown
