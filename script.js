@@ -18,6 +18,8 @@ function generateMessage (object){
     return message;
 };
 
-
+function writeMessage(){
 let message = (generateMessage(messageContent));
 document.write('<h3>'+ message +'</h3>');
+}
+writeMessage();
